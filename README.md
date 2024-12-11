@@ -71,3 +71,4 @@
 - 차후 설문 설계 시, 응답 범주의 확장을 통해 더 풍부한 데이터 분포를 확보해 시각화의 질을 향상할 수 있을 것으로 예상됨.
 
 "# DSCD1_JobAssistant" 
+"# DSCD1_JobAssistant_project" 
