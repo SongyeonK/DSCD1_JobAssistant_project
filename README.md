@@ -1,5 +1,7 @@
 # DSCD1_JobAssistant
 
+## Project Period
+  2021.09 ~ 2021.12
 ## Team
 - 2021111713 김도윤
 - 2021111716 김송연
